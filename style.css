@@ -75,7 +75,7 @@ a:hover {
 }
 
 .red-button {
-  background-color: #C24057;
+  background-color: #bb697a;
   padding: 10px;
   border-radius: 4px;
   border:1px solid black;
@@ -84,7 +84,7 @@ a:hover {
 
 #sidebar {
   position: fixed;
-  width: 300px;
+  width: 350px;
   left: 0;
   top: 0;
   bottom: 0;
@@ -96,14 +96,19 @@ a:hover {
 
 #sidebar {
   position: fixed;
-  width: 100px;
+  width: 150px;
   left: 0;
   top: 0;
-  background-color: yellow;
-  text-decoration: none;
+  background-color: #9F5F7A;
+  list-style: none
   bottom: 0;
 }
 #page-contents {
   margin-left: 300px;
+}
+
+.list_no_bullet {
+  list-style:none;
+  text-decoration: none;
 }
 
