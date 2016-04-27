@@ -99,6 +99,7 @@ a:hover {
   width: 300px;
   left: 0;
   top: 0;
+  background-color: blue;
   bottom: 0;
 }
 #page-contents {
