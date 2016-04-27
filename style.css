@@ -57,6 +57,9 @@ a:hover {
   box-shadow: 1px 1px 1px #e0dbdb;
 }
 
+.gif {
+  width: 200px;
+}
 .container {
   margin: auto;
 }
