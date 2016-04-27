@@ -58,6 +58,7 @@ a:hover {
 }
 
 .gif {
+  text-align: center;
   width: 200px;
 }
 .container {
@@ -73,8 +74,19 @@ a:hover {
   margin: 30px;
 }
 
+.fa {
+  font-size: 40px;
+  color:#e0dbdb;
+}
+
+.fa:hover {
+  color:#C24057;
+}
+
+
 .list_inline {
-  padding-left: 0
+  padding-left: 0;
+  text-align: center;
 }
 
 .red-button {
