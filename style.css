@@ -83,7 +83,6 @@ a:hover {
   color:#9F5F7A;
 }
 
-
 .list_inline {
   padding-left: 0;
   text-align: center;
@@ -127,3 +126,6 @@ a:hover {
   text-decoration: none;
 }
 
+.sidebartitles:hover {
+  color:white;
+}
