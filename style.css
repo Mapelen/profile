@@ -96,10 +96,10 @@ a:hover {
 
 #sidebar {
   position: fixed;
-  width: 300px;
+  width: 100px;
   left: 0;
   top: 0;
-  background-color: blue;
+  background-color: ffae01;
   bottom: 0;
 }
 #page-contents {
